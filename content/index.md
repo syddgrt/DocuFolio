@@ -1,6 +1,6 @@
 ---
 seo:
-  title: Write beautiful docs with Markdown
+  title: syedrious
   description: Ship fast, flexible, and SEO-optimized documentation with beautiful
     design out of the box. Docus brings together the best of the Nuxt ecosystem.
     Powered by Nuxt UI.
@@ -8,22 +8,31 @@ seo:
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+Syed Muhammad Haikal bin Syed Husni
 
 #description
-Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
+Cloud Native Enthusiast.
 
-Docus brings the best of the Nuxt ecosystem into one CLI.
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /content/documentation/
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  Documentation
+  :::
+
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: /syed-portfolio/about-me
+  trailing-icon: i-lucide-arrow-right
+  ---
+  About Syed
   :::
 
   :::u-button
@@ -31,10 +40,10 @@ Docus brings the best of the Nuxt ecosystem into one CLI.
   color: neutral
   icon: simple-icons-github
   size: xl
-  to: https://github.com/nuxt-content/docus
+  to: https://github.com/syddgrt
   variant: outline
   ---
-  Star on GitHub
+  
   :::
 ::
 
