@@ -19,7 +19,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /content/documentation/
+  to: /documentation/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   Documentation

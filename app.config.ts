@@ -1,5 +1,5 @@
 export default defineAppConfig({
   header: {
-    title: 'Cerebrum Secundum',
+    title: 'Cerebrum Commune',
   },
 })
