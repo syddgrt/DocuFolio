@@ -1,10 +1,9 @@
 ---
-title: Terraform
+title: Concepts
 description: Super beginner introduction to Kubernetes
-navigation:
-  icon: i-lucide-house
 seo:
   title: Kubernetes like im 5
+  order: 2
   description: A beginner-friendly explanation of Kubernetes, what it is, and why it exists.
 ---
 

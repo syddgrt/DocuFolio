@@ -1,7 +1,8 @@
 ---
 navigation:
   icon: i-lucide-folder-tree
-title: About Me
+title: Introduction
+order: 1
 ---
 
 This documentation exists primarily as a **personal knowledge base** and a way to share how I understand systems, tooling, and engineering concepts.
