@@ -29,7 +29,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /syed-portfolio/about-me
+  to: /syed-portfolio/projects/homelab-kubernetes
   trailing-icon: i-lucide-arrow-right
   ---
   About Syed
