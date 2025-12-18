@@ -55,7 +55,7 @@ This site documents that process — not just the wins.
 
 - Homelabbing and Linux tinkering
 - Writing documentation in Obsidian
-- Automation, robotics, and production systems
+- Gaming, especially factory simulation games like Satisfactory and Factorio
 - Music and guitar when my brain is fried
 
 ---
