@@ -12,6 +12,8 @@ This section lists certifications relevant to cloud, infrastructure, and cloud-n
 
 ::u-card{variant="soft"}
 
+![Snow-capped mountains in a sea of clouds at sunset](/certifications/kcnaimage.png)
+
 **Issuing Organization:** Cloud Native Computing Foundation (CNCF)  
 **Date Completed:** November 14, 2025  
 **Credential ID:** LF-va1fz2xg0j  

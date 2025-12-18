@@ -2,8 +2,6 @@
 title: About Me
 ---
 
-# About Me
-
 ## Short Version
 
 I’m a software engineer working in **automation and manufacturing systems**, currently transitioning deeper into **cloud-native and DevOps engineering**.

@@ -19,7 +19,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /documentation/introduction
+  to: /introduction.md
   trailing-icon: i-lucide-arrow-right
   ---
   Documentation
@@ -29,7 +29,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /syed-portfolio/projects/homelab-kubernetes
+  to: /asyed-portfolio/aboutme
   trailing-icon: i-lucide-arrow-right
   ---
   About Syed
