@@ -19,7 +19,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /introduction.md
+  to: /landing/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   Documentation
@@ -29,7 +29,7 @@ Cloud Native Enthusiast.
   ---
   color: neutral
   size: xl
-  to: /asyed-portfolio/aboutme
+  to: /syed-portfolio/aboutme
   trailing-icon: i-lucide-arrow-right
   ---
   About Syed
@@ -47,86 +47,37 @@ Cloud Native Enthusiast.
   :::
 ::
 
-::u-page-section
-#title
-Shipped with many features
+## What is this?
 
-#features
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com
-  ---
-  #title
-  Built with [Nuxt 4]{.text-primary}
-  
-  #description
-  Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
-  :::
+<div class="mt-8 flex justify-center">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-4xl">
 
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/
-  ---
-  #title
-  Powered by [Nuxt UI]{.text-primary}
-  
-  #description
-  Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
-  :::
+  <div class="flex items-start gap-4">
+    <span class="text-primary">
+      <Icon name="lucide:book-open" size="24" />
+    </span>
+    <div>
+      <h3 class="font-semibold text-lg">Documentation</h3>
+      <p class="text-muted">
+        Structured technical notes organized by domain, including Cloud, DevOps,
+        Linux, Machine Automation, and Site Reliability Engineering.
+      </p>
+    </div>
+  </div>
 
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com
-  ---
-  #title
-  Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
-  
-  #description
-  The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
-  :::
+  <div class="flex items-start gap-4">
+    <span class="text-primary">
+      <Icon name="lucide:user" size="24" />
+    </span>
+    <div>
+      <h3 class="font-semibold text-lg">Portfolio</h3>
+      <p class="text-muted">
+        Professional background, certifications, experience, and selected
+        projects presented as case studies.
+      </p>
+    </div>
+  </div>
 
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
-  ---
-  #title
-  Customize with [Nuxt App Config]{.text-primary}
-  
-  #description
-  Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
-  :::
+  </div>
+</div>
 
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com/studio
-  ---
-  #title
-  Collaborate on [Nuxt Studio]{.text-primary}
-  
-  #description
-  Write and manage your content visually, with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
-  :::
-
-  :::u-page-feature
-  ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/components/content-search
-  ---
-  #title
-  Built-in navigation and [full-text search]{.text-primary}
-  
-  #description
-  Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
-  :::
-::

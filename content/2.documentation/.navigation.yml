@@ -1,2 +1,9 @@
+---
 title: Documentation
 icon: true
+order: 2
+children:
+  - DevOps
+  - Cloud
+  - syed-portfolio
+---

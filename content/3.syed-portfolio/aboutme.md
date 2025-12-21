@@ -8,15 +8,24 @@ I’m a software engineer working in **automation and manufacturing systems**, c
 
 I enjoy building systems, breaking them, and understanding *why* they fail.
 
+You can reach out or contact me through these channels!
+
+### Get in touch
+
+- **GitHub:** [syddgrt](https://github.com/syddgrt)
+- **LinkedIn:** [Syed Muhammad Haikal](https://www.linkedin.com/in/syedmuhdhaikal/)
+- **Email:** [syedyangsebenar@gmail.com](mailto:syedyangsebenar@gmail.com)
+
 ---
 
-## What I Do
+## What I Currently Do
 
 ::u-card{variant="soft"}
 
 - Automation software for production and manufacturing lines  
 - WPF + C# HMI development  
-- Robot and machine integration  
+- Robot and machine integration with hardware components
+- Troubleshoot/Debugging machine sequence errors
 - Cloud-native infrastructure and Kubernetes (hands-on, not buzzwords)
 
 ::
@@ -63,3 +72,5 @@ This site documents that process — not just the wins.
 - [Certifications](/portfolio/certifications)
 - [Experience](/portfolio/experience)
 - [Projects](/portfolio/projects)
+
+
