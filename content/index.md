@@ -8,8 +8,7 @@ seo:
 
 ::u-page-hero
 #title
-Syed Muhammad Haikal bin Syed Husni
-
+<TypingText text="Syed Muhammad Haikal bin Syed Husni" />
 #description
 Cloud Native Enthusiast.
 
@@ -46,8 +45,6 @@ Cloud Native Enthusiast.
   
   :::
 ::
-
-## What is this?
 
 <div class="mt-8 flex justify-center">
   <div class="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-4xl">

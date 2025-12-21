@@ -69,8 +69,8 @@ This site documents that process — not just the wins.
 
 ## Links
 
-- [Certifications](/portfolio/certifications)
-- [Experience](/portfolio/experience)
-- [Projects](/portfolio/projects)
+- [Certifications](/syed-portfolio/certifications)
+- [Experience](/syed-portfolio/experience)
+- [Projects](/syed-portfolio/projects)
 
 
