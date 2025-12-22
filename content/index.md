@@ -6,12 +6,14 @@ seo:
     Powered by Nuxt UI.
 ---
 
+::div{class="hero-bg"}
+
 ::u-page-hero
 #title
 <TypingText text="Syed Muhammad Haikal bin Syed Husni" />
+
 #description
 Cloud Native Enthusiast.
-
 
 #links
   :::u-button
@@ -42,9 +44,12 @@ Cloud Native Enthusiast.
   to: https://github.com/syddgrt
   variant: outline
   ---
-  
+  GitHub
   :::
 ::
+
+::
+
 
 <div class="mt-8 flex justify-center">
   <div class="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-4xl">
