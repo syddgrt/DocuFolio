@@ -3,7 +3,7 @@ title: Concepts
 description: Super beginner introduction to Kubernetes
 seo:
   title: Kubernetes like im 5
-  order: 2
+  navigation: 2
   description: A beginner-friendly explanation of Kubernetes, what it is, and why it exists.
 ---
 

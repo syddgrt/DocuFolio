@@ -1,1 +1,5 @@
-export default defineNuxtConfig({})
+export default defineNuxtConfig({
+  site: {
+    name: 'Cerebrum Commune 🧠',
+  },
+})
